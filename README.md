@@ -33,7 +33,7 @@ Start the main program
 
 ## Demo
 
-![]()
+![](https://github.com/ferhatacikalin/samurai-sudoku-solver/blob/main/ss/sudoku.gif?raw=true)
 
 
 ## Authors
